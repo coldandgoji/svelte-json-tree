@@ -1,10 +1,13 @@
 {
-  "name": "svelte-json-tree",
+  "name": "@coldandgoji/svelte-tree",
   "version": "0.1.0",
   "description": "Svelte JSON Viewer Component",
   "main": "dist/index.js",
   "svelte": "src/Root.svelte",
   "author": "Tan Li Hau <lhtan93@gmail.com>",
+  "contributors": [
+    "Matthew White <m@coldandgoji.com>"
+  ],
   "license": "MIT",
   "keywords": [
     "svelte",
@@ -15,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tanhauhau/svelte-json-tree.git"
+    "url": "https://github.com/coldandgoji/svelte-json-tree"
   },
   "scripts": {
     "build": "rollup -c",
