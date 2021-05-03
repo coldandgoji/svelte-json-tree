@@ -1,6 +1,6 @@
 {
   "name": "@coldandgoji/svelte-tree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Svelte JSON Viewer Component",
   "main": "dist/index.js",
   "svelte": "src/Root.svelte",
